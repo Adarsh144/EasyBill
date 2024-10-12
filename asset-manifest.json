@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/easybill/static/css/main.8726a5ce.css",
+    "main.js": "/easybill/static/js/main.c16c28cd.js",
+    "static/js/213.45b38763.chunk.js": "/easybill/static/js/213.45b38763.chunk.js",
+    "static/js/732.ee991073.chunk.js": "/easybill/static/js/732.ee991073.chunk.js",
+    "static/js/453.3cdd92be.chunk.js": "/easybill/static/js/453.3cdd92be.chunk.js",
+    "index.html": "/easybill/index.html",
+    "main.8726a5ce.css.map": "/easybill/static/css/main.8726a5ce.css.map",
+    "main.c16c28cd.js.map": "/easybill/static/js/main.c16c28cd.js.map",
+    "213.45b38763.chunk.js.map": "/easybill/static/js/213.45b38763.chunk.js.map",
+    "732.ee991073.chunk.js.map": "/easybill/static/js/732.ee991073.chunk.js.map",
+    "453.3cdd92be.chunk.js.map": "/easybill/static/js/453.3cdd92be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8726a5ce.css",
+    "static/js/main.c16c28cd.js"
+  ]
+}
