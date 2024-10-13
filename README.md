@@ -12,8 +12,10 @@ https://adarsh144.github.io/EasyBill/
 
 
 ## INSTALLATION
+'''
 git clone https://github.com/Adarsh144/EasyBill
 
 npm install
 
 npm start / npm run build
+'''
